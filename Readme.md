@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Taranjot Singh. I’m a CIS student who enjoys building projects with Java, Python, and web technologies. I focus on learning by doing and improving my coding skills through practical projects.<br><br>Skills: Java, Python (basic), HTML, CSS, JavaScript, Git.
+Hi, I’m Taranjot Singh. I’m a CIS student who enjoys building projects with Java, Python, and web technologies. I focus on learning by doing and improving my coding 
 
 
 ## 🌐 Socials:
